@@ -1,7 +1,12 @@
+Name: M.SANTHANA LAKSHMI
 
+ID: CT0806AP
 
+Domain: Software Developement
 
+Duration: Dec24-Jan25
 
+Mentor: Neela Shanthu
 
 
 Here are some observations and suggestions regarding the e-commerce website/mobile application development process:
